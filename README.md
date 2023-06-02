@@ -1,3 +1,2 @@
-(https://github.com/ozgecinarci/FlaskApp-Topic-Prediction-Sentiment-Analsysis-System/assets/89706915/89a28f12-3e7e-4159-9e6c-14763ca11e67)
-
-(https://github.com/ozgecinarci/FlaskApp-Topic-Prediction-Sentiment-Analsysis-System/assets/89706915/9f1399a1-5156-445b-b3b4-d55fbec6bde9)
+![resultscreen](https://github.com/ozgecinarci/FlaskApp-Topic-Prediction-Sentiment-Analsysis-System/assets/89706915/de459df4-61e9-4aed-8743-5afa1da7f00d)
+![speechtotext](https://github.com/ozgecinarci/FlaskApp-Topic-Prediction-Sentiment-Analsysis-System/assets/89706915/f895ec6b-f3b6-4809-b77b-2ca293fa32af)
