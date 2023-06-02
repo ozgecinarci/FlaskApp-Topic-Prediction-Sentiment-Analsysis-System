@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Result</h1>
+    <div class="result-container">
+        <p>Input Text: {{ input_text }}</p>
+        <p>Topic Probabilities: {{ topic }}</p>
+        <p>Top Topic: {{ top_topic }}</p>
+        <p>Sentiment: {{ sentiment }}</p>
+    </div>
+</body>
+</html>
